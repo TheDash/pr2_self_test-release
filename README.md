@@ -1,3 +1,30 @@
+## pr2_self_test (hydro) - 1.0.6-0
+
+The packages in the `pr2_self_test` repository were released into the `hydro` distro by running `/usr/bin/bloom-release --rosdistro hydro --track hydro pr2_self_test` on `Sat, 29 Nov 2014 00:42:26 -0000`
+
+These packages were released:
+- `joint_qualification_controllers`
+- `pr2_bringup_tests`
+- `pr2_counterbalance_check`
+- `pr2_motor_diagnostic_tool`
+- `pr2_self_test`
+- `pr2_self_test_msgs`
+
+Version of package(s) in repository `pr2_self_test`:
+- upstream repository: https://github.com/PR2/pr2_self_test.git
+- release repository: https://github.com/TheDash/pr2_self_test-release.git
+- rosdistro version: `1.0.5-0`
+- old version: `1.0.5-0`
+- new version: `1.0.6-0`
+
+Versions of tools used:
+- bloom version: `0.5.14`
+- catkin_pkg version: `0.2.6`
+- rosdep version: `0.10.32`
+- rosdistro version: `0.3.6`
+- vcstools version: `0.1.35`
+
+
 ## pr2_self_test (hydro) - 1.0.5-0
 
 The packages in the `pr2_self_test` repository were released into the `hydro` distro by running `/usr/bin/bloom-release --rosdistro hydro --track hydro pr2_self_test` on `Fri, 28 Nov 2014 07:23:55 -0000`
