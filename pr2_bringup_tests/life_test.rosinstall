@@ -1,3 +1,0 @@
-# This installs necessary tools and utilities to run the PR2 bringup tests during production.
-- git: {local-name: wg_hardware_test, uri: 'git://github.com/willowgarage/wg_hardware_test.git',
-         version: 'production' }
