@@ -1,0 +1,12 @@
+Source: ros-indigo-pr2-motor-diagnostic-tool
+Section: misc
+Priority: extra
+Maintainer: Dash <dash@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-ethercat-hardware, ros-indigo-pluginlib, ros-indigo-pr2-controller-interface, ros-indigo-pr2-mechanism-model, ros-indigo-pr2-mechanism-msgs, ros-indigo-rospy, ros-indigo-rqt-gui, ros-indigo-rqt-gui-py
+Homepage: http://ros.org/wiki/pr2_motor_diagnostic_tool
+Standards-Version: 3.9.2
+
+Package: ros-indigo-pr2-motor-diagnostic-tool
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-ethercat-hardware, ros-indigo-pluginlib, ros-indigo-pr2-controller-interface, ros-indigo-pr2-mechanism-model, ros-indigo-pr2-mechanism-msgs, ros-indigo-rospy, ros-indigo-rqt-gui, ros-indigo-rqt-gui-py
+Description: pr2_motor_diagnostic_tool
