@@ -1,3 +1,30 @@
+## pr2_self_test (indigo) - 1.0.10-0
+
+The packages in the `pr2_self_test` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo pr2_self_test` on `Fri, 18 Sep 2015 20:58:45 -0000`
+
+These packages were released:
+- `joint_qualification_controllers`
+- `pr2_bringup_tests`
+- `pr2_counterbalance_check`
+- `pr2_motor_diagnostic_tool`
+- `pr2_self_test`
+- `pr2_self_test_msgs`
+
+Version of package(s) in repository `pr2_self_test`:
+- upstream repository: https://github.com/PR2/pr2_self_test.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.10-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.37`
+
+
 ## pr2_self_test (hydro) - 1.0.7-0
 
 The packages in the `pr2_self_test` repository were released into the `hydro` distro by running `/usr/bin/bloom-release --rosdistro hydro --track hydro pr2_self_test --edit` on `Wed, 03 Dec 2014 00:18:50 -0000`
