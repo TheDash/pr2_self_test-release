@@ -1,1 +1,0 @@
-rxplot torso_lift_imu/data/angular_velocity/x:y:z -b 60 torso_lift_imu/data/linear_acceleration/x:y:z 
