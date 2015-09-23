@@ -1,0 +1,12 @@
+Source: ros-indigo-pr2-counterbalance-check
+Section: misc
+Priority: extra
+Maintainer: Devon Ash <dash@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-actionlib, ros-indigo-catkin, ros-indigo-joint-qualification-controllers, ros-indigo-pr2-controller-configuration, ros-indigo-pr2-controller-manager, ros-indigo-pr2-controllers-msgs, ros-indigo-pr2-self-test-msgs, ros-indigo-rospy, ros-indigo-std-msgs
+Homepage: http://ros.org/wiki/pr2_counterbalance_check
+Standards-Version: 3.9.2
+
+Package: ros-indigo-pr2-counterbalance-check
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-actionlib, ros-indigo-joint-qualification-controllers, ros-indigo-pr2-controller-configuration, ros-indigo-pr2-controller-manager, ros-indigo-pr2-controllers-msgs, ros-indigo-pr2-self-test-msgs, ros-indigo-rospy, ros-indigo-std-msgs
+Description: pr2_counterbalance_check
