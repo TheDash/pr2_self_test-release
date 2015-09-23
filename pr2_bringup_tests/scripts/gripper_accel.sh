@@ -1,1 +1,0 @@
-rxplot /accelerometer/l_gripper_motor/samples[0]/x:y:z /accelerometer/r_gripper_motor/samples[0]/x:y:z -b 60
